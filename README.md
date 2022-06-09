@@ -10,4 +10,4 @@ Das "Cleanen" von https://github.com/edlich/eternalrepo/blob/master/DS-WAHLFACH/
 
 Exercise 2 ist die Kaggle Data Challenge, die direkt in einem Notebook bei Kaggle durchgeführt und von dort unter Nutzung des recht neuen Github Linkings nach Github commited wurde.
 
-![]([https://your-copied-image-address](https://github.com/rehroman/DS_ESA7/blob/main/Screenshot_Kaggle.png))
+![Screenshot]([https://your-copied-image-address](https://github.com/rehroman/DS_ESA7/blob/main/Screenshot_Kaggle.png))
